@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Bebas";
+  src: url("../fonts/Bebas/Bebas.ttf") format("truetype");
+  src: url("../fonts/Bebas/Bebas.woff2") format("woff2"),
+    url("../fonts/Bebas/Bebas.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "HelveticaNeue";
+  src: url("../fonts/HelveticaNeue/HelveticaNeue.ttf") format("truetype");
+  src: url("../fonts/HelveticaNeue/HelveticaNeue.woff2") format("woff2"),
+    url("../fonts/HelveticaNeue/HelveticaNeue.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "HelveticaNeueLight";
+  src: url("../fonts/HelveticaNeueLight/HelveticaNeue-Light.ttf")
+    format("truetype");
+  src: url("../fonts/HelveticaNeueLight/HelveticaNeue-Light.woff2")
+      format("woff2"),
+    url("../fonts/HelveticaNeueLight/HelveticaNeue-Light.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
